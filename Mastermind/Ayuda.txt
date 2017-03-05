@@ -1,0 +1,4 @@
+Tienes que adivinar un codigo de colores en un maximo de intentos.
+Introduce codigos de colores (r=Rojo;A=Azul;V=Verde;N=Negro;G=Granate;M=Marron)
+Veras cuaNtos estan en su lugar y cuales en otro lugar.
+XXX
